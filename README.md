@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Rudy45KC/Docker-is-fun/blob/master/dockerImage.png)
 
-# docker commands -> 
+# Docker commands -> 
 create a docker file in your app directory 
 
 using command ->
