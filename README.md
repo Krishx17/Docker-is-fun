@@ -1,6 +1,6 @@
 # Docker is fun 🐳
 
-![image]([https://github.com/Rudy45KC/React-Weather-App/blob/master/ProjectInterface.png](https://raw.githubusercontent.com/Rudy45KC/Docker-is-fun/master/dockerImage.png))
+![image](https://github.com/Rudy45KC/Docker-is-fun/blob/master/dockerImage.png)
 
 # docker commands -> 
 create a docker file in your app directory 
