@@ -1,10 +1,6 @@
-# Getting started
-
-This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
-
-The application is based on the application from the getting started tutorial at https://github.com/docker/getting-started
-
 # Docker is fun 🐳
+
+![image]([https://github.com/Rudy45KC/React-Weather-App/blob/master/ProjectInterface.png](https://raw.githubusercontent.com/Rudy45KC/Docker-is-fun/master/dockerImage.png))
 
 # docker commands -> 
 create a docker file in your app directory 
